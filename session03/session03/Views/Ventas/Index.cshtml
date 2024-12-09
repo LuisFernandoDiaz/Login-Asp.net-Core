@@ -1,0 +1,108 @@
+﻿@model IEnumerable<session03.Models.Ventas>
+
+@{
+    ViewData["Title"] = "Vienvenido al Index";
+
+    int contador = 1;
+    decimal total = 0;
+
+    string color = "";
+
+}
+
+<h1>@ViewData["title"]</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="Ventas" asp-action="Index">
+    <p>
+        <input type="text" name="buscarDes" />
+        <input type="submit" value="Buscar" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                N°
+            </th>
+            <th>
+                <a asp-controller="Ventas" asp-action="Index" asp-route-ordenar="@ViewData["DescripSort"]">
+                    descripcion
+                </a>
+                
+            </th>
+            <th>
+                <a asp-controller="Ventas" asp-action="Index" asp-route-ordenar="@ViewData["CantidadSort"]">
+                    cantidad
+                </a>
+                
+            </th>
+            <th>
+                precio_uni
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            if (item.cantidad > 11)
+            {
+                color = "red";
+            }
+            else
+            {
+                color = "";
+            }
+
+        <tr>
+            <td>
+                @contador
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td style="background: @color;">
+                @Html.DisplayFor(modelItem => item.cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio_uni)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+            </tr>
+
+            contador = contador + 1;
+
+            total = total + item.precio_uni * item.cantidad;
+
+
+}
+
+        <tr>
+            <td>
+              
+            </td>
+
+            <td>
+                TOTAL
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                @total
+            </td>
+            <td>
+             
+            </td>
+        </tr>
+    </tbody>
+</table>
