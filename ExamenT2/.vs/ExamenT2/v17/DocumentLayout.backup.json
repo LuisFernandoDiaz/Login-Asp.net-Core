@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\views\\videotecas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\views\\videotecas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\views\\videotecas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\views\\videotecas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\views\\videotecas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\views\\videotecas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\views\\videotecas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\views\\videotecas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\views\\videotecas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\views\\videotecas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\controllers\\videotecascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\controllers\\videotecascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\data\\exament2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\data\\exament2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|c:\\users\\mayky\\source\\repos\\exament2\\exament2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2E4EEC-98EF-4B03-A79F-0A2B8011FF29}|ExamenT2\\ExamenT2.csproj|solutionrelative:exament2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamenT2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamenT2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:12:03.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamenT2\\Views\\Videotecas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Create.cshtml",
+              "RelativeToolTip": "ExamenT2\\Views\\Videotecas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:09:21.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExamenT2\\Views\\Videotecas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Delete.cshtml",
+              "RelativeToolTip": "ExamenT2\\Views\\Videotecas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:09:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExamenT2\\Views\\Videotecas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Details.cshtml",
+              "RelativeToolTip": "ExamenT2\\Views\\Videotecas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:09:11.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExamenT2\\Views\\Videotecas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Edit.cshtml",
+              "RelativeToolTip": "ExamenT2\\Views\\Videotecas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:09:06.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExamenT2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExamenT2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:46:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamenT2Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Data\\ExamenT2Context.cs",
+              "RelativeDocumentMoniker": "ExamenT2\\Data\\ExamenT2Context.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Data\\ExamenT2Context.cs",
+              "RelativeToolTip": "ExamenT2\\Data\\ExamenT2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:46:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenT2\\Views\\Videotecas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Views\\Videotecas\\Index.cshtml",
+              "RelativeToolTip": "ExamenT2\\Views\\Videotecas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T02:46:20.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideotecasController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Controllers\\VideotecasController.cs",
+              "RelativeDocumentMoniker": "ExamenT2\\Controllers\\VideotecasController.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Controllers\\VideotecasController.cs",
+              "RelativeToolTip": "ExamenT2\\Controllers\\VideotecasController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:43:12.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Videoteca.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Models\\Videoteca.cs",
+              "RelativeDocumentMoniker": "ExamenT2\\Models\\Videoteca.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Models\\Videoteca.cs",
+              "RelativeToolTip": "ExamenT2\\Models\\Videoteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:30:08.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenT2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\appsettings.json",
+              "RelativeToolTip": "ExamenT2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T00:38:06.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenT2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayky\\source\\repos\\ExamenT2\\ExamenT2\\Program.cs",
+              "RelativeToolTip": "ExamenT2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:37:50.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
